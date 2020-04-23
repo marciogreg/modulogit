@@ -1,2 +1,1 @@
-Meu Segundo sistema no git
-Mudando para o segundo
+Meu Segundo sistema no git (Alterado para treinamento)
